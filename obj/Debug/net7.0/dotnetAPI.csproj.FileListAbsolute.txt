@@ -77,3 +77,7 @@
 /home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
 /home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
 /home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/rakib/DotNet/cS/dotnetAPI/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.SqlServer.dll
