@@ -112,6 +112,6 @@ public class UserController : ControllerBase
             return Ok();
         }
 
-        throw new Exception("Faild to delete");
+        throw new Exception("Faild to delete the user");
     }
 }
